@@ -3,7 +3,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.15.3//EN
 N:Temple;Tamara;;;
 FN:Tamara Temple
-EMAIL;type=INTERNET;type=HOME:tamara@tamouse.com
+EMAIL;type=INTERNET;type=HOME:tamara@tamouse.org
 TEL;type=CELL;type=VOICE;type=pref:651-485-2195
 item1.TEL:415-503-9241
 item1.X-ABLabel:X-gvoice
