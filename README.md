@@ -1,27 +1,12 @@
-# contact_tamouse_org
+# Contact page - online business card
 
-> Contact page - online business card
+This is where to find me:
 
-## Installation
-
-...
-
-## Usage
-
-...
-
-## Development
-
-...
-
-## License
-
-See [LICENSE](./LICENSE)
-
-## Contributing
-
-See [CONTRIBUTING](./CONTRIBUTING.md)
-
-## Colophon
-
-Another tamouse project!
+* **Name:** Tamara Temple
+* **Phone:** (651) 485-2195
+* **Email:** tamara@tamouse.org
+* **Twitter:** <https://twitter.com/tamouse>
+* **Github:** <https://github.com/tamouse>
+* **LinkedIn:** <https://linkedin.com/in/tamaratemple>
+* **Keybase:** <https://keybase.io/tamouse_>
+* **Online Resume:** <https://resume.tamouse.org>
