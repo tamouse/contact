@@ -6,5 +6,9 @@
   "main": "index.js",
   "repository": "git@github.com:tamouse/contact_tamouse_org.git",
   "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build"
+  }
 }
