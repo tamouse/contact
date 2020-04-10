@@ -2,3 +2,4 @@
 .CFUserTextEncoding
 .localized
 /node_modules/
+.jekyll-cache/
