@@ -1,0 +1,27 @@
+{
+  "fullName": "Tamara Temple",
+  "email": "tamara@tamouse.org",
+  "phone": "651-485-2195",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/tamouse",
+      "text": "@tamouse"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/tamouse",
+      "text": "@tamouse"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tamaratemple",
+      "text": "tamaratemple"
+    },
+    {
+      "name": "Keybase",
+      "url": "https://keybase.io/tamouse_",
+      "text": "tamouse_"
+    }
+  ]
+}
